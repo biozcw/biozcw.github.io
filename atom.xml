@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-09-27T13:07:27.000Z</updated>
+  <updated>2016-09-30T13:11:46.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>a new start</title>
+    <link href="http://yoursite.com/2016/09/30/a-new-start/"/>
+    <id>http://yoursite.com/2016/09/30/a-new-start/</id>
+    <published>2016-09-30T09:18:24.000Z</published>
+    <updated>2016-09-30T13:11:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="this-is-a-header"><a href="#this-is-a-header" class="headerlink" title="this is a header"></a>this is a header</h1><ol>
+<li>blah</li>
+<li>blah</li>
+<li>blah</li>
+</ol>
+<h1 id="this-is-a-header-for-pictures"><a href="#this-is-a-header-for-pictures" class="headerlink" title="this is a header for pictures"></a>this is a header for pictures</h1><p><img src="/images/Fly_Me_To_The_Moon-Frank_Sinatra.png" alt="Fly_Me_To_The_Moon-Frank_Sinatra"></p>
+<p><img src="/images/DSC01411.jpg" alt="snow flakes"></p>
+<p><img src="/images/DSC02192.jpg" alt="lady"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;this-is-a-header&quot;&gt;&lt;a href=&quot;#this-is-a-header&quot; class=&quot;headerlink&quot; title=&quot;this is a header&quot;&gt;&lt;/a&gt;this is a header&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;blah&lt;/li
+    
+    </summary>
+    
+      <category term="self" scheme="http://yoursite.com/categories/self/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>i would like to have another new post, longer name this time</title>
@@ -34,10 +63,9 @@
     <link href="http://yoursite.com/2016/09/27/this-is-my-new-post/"/>
     <id>http://yoursite.com/2016/09/27/this-is-my-new-post/</id>
     <published>2016-09-27T11:49:55.000Z</published>
-    <updated>2016-09-27T11:58:03.000Z</updated>
+    <updated>2016-09-30T09:17:12.000Z</updated>
     
-    <content type="html"><![CDATA[<p>#this is a header</p>
-<blockquote>
+    <content type="html"><![CDATA[<h1 id="this-is-a-header"><a href="#this-is-a-header" class="headerlink" title="this is a header"></a>this is a header</h1><blockquote>
 <p>here is a quote</p>
 </blockquote>
 <table>
@@ -66,17 +94,8 @@
     
     <summary type="html">
     
-      &lt;p&gt;#this is a header&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;here is a quote&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;this&lt;/th&gt;
-&lt;th&gt;is&lt;/th&gt;
-&lt;th&gt;just&lt;/th&gt;
-&lt;/tr
+      &lt;h1 id=&quot;this-is-a-header&quot;&gt;&lt;a href=&quot;#this-is-a-header&quot; class=&quot;headerlink&quot; title=&quot;this is a header&quot;&gt;&lt;/a&gt;this is a header&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;h
     
     </summary>
     
