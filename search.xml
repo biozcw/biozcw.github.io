@@ -4,54 +4,10 @@
   
     
     <entry>
-      <title><![CDATA[a new start]]></title>
-      <url>http://yoursite.com/2016/09/30/a-new-start/</url>
-      <content type="html"><![CDATA[<h1 id="this-is-a-header"><a href="#this-is-a-header" class="headerlink" title="this is a header"></a>this is a header</h1><ol>
-<li>blah</li>
-<li>blah</li>
-<li>blah</li>
-</ol>
-<h1 id="this-is-a-header-for-pictures"><a href="#this-is-a-header-for-pictures" class="headerlink" title="this is a header for pictures"></a>this is a header for pictures</h1><p><img src="/images/Fly_Me_To_The_Moon-Frank_Sinatra.png" alt="Fly_Me_To_The_Moon-Frank_Sinatra"></p>
-<p><img src="/images/DSC01411.jpg" alt="snow flakes"></p>
-<p><img src="/images/DSC02192.jpg" alt="lady"></p>
+      <title></title>
+      <url>http://yoursite.com/2016/12/03/2016-12-03/</url>
+      <content type="html"><![CDATA[<h1 id="This-is-a-new-document"><a href="#This-is-a-new-document" class="headerlink" title="This is a new document"></a>This is a new document</h1><p>Test test test</p>
 ]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[i would like to have another new post, longer name this time]]></title>
-      <url>http://yoursite.com/2016/09/27/i-would-like-to-have-another-new-post-longer-name-this-time/</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[this is my new post]]></title>
-      <url>http://yoursite.com/2016/09/27/this-is-my-new-post/</url>
-      <content type="html"><![CDATA[<h1 id="this-is-a-header"><a href="#this-is-a-header" class="headerlink" title="this is a header"></a>this is a header</h1><blockquote>
-<p>here is a quote</p>
-</blockquote>
-<table>
-<thead>
-<tr>
-<th>this</th>
-<th>is</th>
-<th>just</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>another</td>
-<td>boring</td>
-<td>table</td>
-</tr>
-</tbody>
-</table>
-<p>#<em>here is one lovely picture</em></p>
-<p>/Users/zichenwang/Desktop/Fly_Me_To_The_Moon-Frank_Sinatra.png</p>
-<p>or?<br>/Users/zichenwang/Desktop/Fly_Me_To_The_Moon-Frank_Sinatra.png</p>
-<p>i wonder if the picture will show up…</p>
-<h2 id="—–"><a href="#—–" class="headerlink" title="—–"></a>—–</h2><hr>
-<pre><code>make it the end
-</code></pre>]]></content>
     </entry>
     
     <entry>
