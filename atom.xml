@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-02-24T11:12:16.000Z</updated>
+  <updated>2017-02-24T11:52:05.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Five diseases of academic publishing</title>
+    <link href="http://yoursite.com/2017/02/24/Five-diseases-of-academic-publishing/"/>
+    <id>http://yoursite.com/2017/02/24/Five-diseases-of-academic-publishing/</id>
+    <published>2017-02-24T11:16:07.000Z</published>
+    <updated>2017-02-24T11:52:05.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Scientists these days are under such immense pressure to “get results” that  the well-being of the academic community is threatened. Here are five diseases of academic publishing suggested by John Antonakis, a well trained psychologist.</p>
+<p>####Diseases troubling the scientific community</p>
+<p>#####1. significosis<br>The sole focus to produce statistically significant results, which is well-known among us scientists. Since players in the publishing game only consider significant results worth publishing, it has introduced bias, including investigator bias, which may lead to the assumption that what is significant has to also be real, or true. (Which is not necessarily the case, as people may eventually get lucky if they just keep trying)</p>
+<p>#####2. Neophilia<br>This is about excessive appreciation for novelty that went wrong. Indeed novel finding can be useful, but it may just as likely, if not more likely to be false. Replications of previously published results are deemed boring these days, which is rather disturbing.</p>
+<p>#####3. Theorrhea<br>It refers to a mania for new theory. Especially in top journals, research are mean to be theory driven and not exploratory. How is it possible for us to develop so many contributions to theory? Assuming 5 elite journals each producing 80 papers a year, the sheer amount of contributions can be staggering. </p>
+<p>#####4. Arigorium<br>A deficiency of rigor in theoretical and empirical work. Theories need to be more precise, realistic, and testable, as oppose to “cheap works” that excel in quantity.</p>
+<p>#####5. Disjunctivitis<br>It is about a collective proclivity (tendency) to produce large quantities of redundant, trivial, and incoherent works. This happens mainly because such actions are usually rewarded. The result is a lot of research disjointed from well established body of knowledge. Such stagnant or even backward tendencies is in nature fragmented, and will serve little in the advance of science in a cohesive fashion.</p>
+<p>####Source<br><a href="http://retractionwatch.com/2017/02/21/got-significosis-five-diseases-academic-publishing/" target="_blank" rel="external">http://retractionwatch.com/2017/02/21/got-significosis-five-diseases-academic-publishing/</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Scientists these days are under such immense pressure to “get results” that  the well-being of the academic community is threatened. Here
+    
+    </summary>
+    
+    
+      <category term="Science" scheme="http://yoursite.com/tags/Science/"/>
+    
+  </entry>
   
   <entry>
     <title>Now It Begins</title>
