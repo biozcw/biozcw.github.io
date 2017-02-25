@@ -2,17 +2,17 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>http://yoursite.com/post-sitemap.xml</loc>
+        <loc>https://biozcw.github.io/post-sitemap.xml</loc>
         <lastmod>2017-02-24T13:20:28.000Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yoursite.com/page-sitemap.xml</loc>
+        <loc>https://biozcw.github.io/page-sitemap.xml</loc>
         <lastmod>2016-09-29T14:17:34.000Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yoursite.com/tag-sitemap.xml</loc>
+        <loc>https://biozcw.github.io/tag-sitemap.xml</loc>
         <lastmod>2017-02-24T11:12:16.000Z</lastmod>
     </sitemap>
 

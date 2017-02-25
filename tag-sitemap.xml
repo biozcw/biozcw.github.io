@@ -2,21 +2,21 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://yoursite.com/tags/photos/</loc>
+        <loc>https://biozcw.github.io/tags/photos/</loc>
         <lastmod>2017-02-24T11:12:16.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://yoursite.com/tags/Science/</loc>
+        <loc>https://biozcw.github.io/tags/Science/</loc>
         <lastmod>2017-02-24T11:56:08.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://yoursite.com/tags/Housing/</loc>
+        <loc>https://biozcw.github.io/tags/Housing/</loc>
         <lastmod>2017-02-24T13:20:28.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

@@ -4,9 +4,9 @@
   <subtitle>the world just needs another site</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://biozcw.github.io/"/>
   <updated>2017-02-24T13:20:28.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://biozcw.github.io/</id>
   
   <author>
     <name>Zichen Wang</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Housing Ponzi finance</title>
-    <link href="http://yoursite.com/2017/02/24/Housing-Ponzi-finance/"/>
-    <id>http://yoursite.com/2017/02/24/Housing-Ponzi-finance/</id>
+    <link href="https://biozcw.github.io/2017/02/24/Housing-Ponzi-finance/"/>
+    <id>https://biozcw.github.io/2017/02/24/Housing-Ponzi-finance/</id>
     <published>2017-02-24T12:57:20.000Z</published>
     <updated>2017-02-24T13:20:28.000Z</updated>
     
@@ -39,14 +39,14 @@
     </summary>
     
     
-      <category term="Housing" scheme="http://yoursite.com/tags/Housing/"/>
+      <category term="Housing" scheme="https://biozcw.github.io/tags/Housing/"/>
     
   </entry>
   
   <entry>
     <title>Five diseases of academic publishing</title>
-    <link href="http://yoursite.com/2017/02/24/Five-diseases-of-academic-publishing/"/>
-    <id>http://yoursite.com/2017/02/24/Five-diseases-of-academic-publishing/</id>
+    <link href="https://biozcw.github.io/2017/02/24/Five-diseases-of-academic-publishing/"/>
+    <id>https://biozcw.github.io/2017/02/24/Five-diseases-of-academic-publishing/</id>
     <published>2017-02-24T11:16:07.000Z</published>
     <updated>2017-02-24T11:56:08.000Z</updated>
     
@@ -66,14 +66,14 @@
     </summary>
     
     
-      <category term="Science" scheme="http://yoursite.com/tags/Science/"/>
+      <category term="Science" scheme="https://biozcw.github.io/tags/Science/"/>
     
   </entry>
   
   <entry>
     <title>Now It Begins</title>
-    <link href="http://yoursite.com/2017/02/24/New-system-testing/"/>
-    <id>http://yoursite.com/2017/02/24/New-system-testing/</id>
+    <link href="https://biozcw.github.io/2017/02/24/New-system-testing/"/>
+    <id>https://biozcw.github.io/2017/02/24/New-system-testing/</id>
     <published>2017-02-24T10:18:36.000Z</published>
     <updated>2017-02-24T11:12:16.000Z</updated>
     
@@ -88,14 +88,14 @@
     </summary>
     
     
-      <category term="photos" scheme="http://yoursite.com/tags/photos/"/>
+      <category term="photos" scheme="https://biozcw.github.io/tags/photos/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/09/27/hello-world/"/>
-    <id>http://yoursite.com/2016/09/27/hello-world/</id>
+    <link href="https://biozcw.github.io/2016/09/27/hello-world/"/>
+    <id>https://biozcw.github.io/2016/09/27/hello-world/</id>
     <published>2016-09-27T11:47:24.000Z</published>
     <updated>2016-09-27T11:47:25.000Z</updated>
     
