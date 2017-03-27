@@ -6,7 +6,10 @@
     <entry>
       <title><![CDATA[video test]]></title>
       <url>https://biozcw.github.io/2017/03/28/video-test/</url>
-      <content type="html"><![CDATA[<div class="video-container"></div>
+      <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/2LLI_77mPbw" frameborder="0" allowfullscreen></iframe>
+
+
+<div class="video-container"></div>
 ]]></content>
     </entry>
     
