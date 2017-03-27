@@ -4,6 +4,16 @@
   
     
     <entry>
+      <title><![CDATA[flickr embed testing]]></title>
+      <url>https://biozcw.github.io/2017/03/28/flickr-embed-testing/</url>
+      <content type="html"><![CDATA[<p><a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/biozcw/33121117460/in/dateposted/" title="midsummer night&#x27;s dream" target="_blank" rel="external"><img src="https://c1.staticflickr.com/3/2864/33121117460_feb7ff0799_b.jpg" width="1024" height="681" alt="midsummer night&#x27;s dream"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<p><a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/biozcw/33298579972/in/dateposted/" title="Stenoglottis Venus" target="_blank" rel="external"><img src="https://c1.staticflickr.com/4/3801/33298579972_7d22e92817_b.jpg" width="1024" height="681" alt="Stenoglottis Venus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<p><a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/biozcw/30416616673/in/dateposted/" title="Stag beetle at door step" target="_blank" rel="external"><img src="https://c1.staticflickr.com/6/5444/30416616673_71e9631236_b.jpg" width="1024" height="683" alt="Stag beetle at door step"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<p><a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/zaphox/29223425534/in/faves-56873056@N08/" title="Victoria&#x27;s Riflebird displaying. Atherton Tablelands." target="_blank" rel="external"><img src="https://c1.staticflickr.com/9/8316/29223425534_20308d4e6e_b.jpg" width="1024" height="683" alt="Victoria&#x27;s Riflebird displaying. Atherton Tablelands."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[video test]]></title>
       <url>https://biozcw.github.io/2017/03/28/video-test/</url>
       <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/2LLI_77mPbw" frameborder="0" allowfullscreen></iframe>
