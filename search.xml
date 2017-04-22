@@ -4,6 +4,15 @@
   
     
     <entry>
+      <title><![CDATA[In Case OSX Sierra forgets my SSH Key Again]]></title>
+      <url>https://biozcw.github.io/2017/04/22/In-case-OSX-Sierra-forget-my-SSH-Keys-Again/</url>
+      <content type="html"><![CDATA[<p>Temporary solution<br><code>ssh-add -K</code></p>
+<p>Long term solution (hopefully)<br><a href="https://apple.stackexchange.com/questions/254468/macos-sierra-doesn-t-seem-to-remember-ssh-keys-between-reboots" target="_blank" rel="external">https://apple.stackexchange.com/questions/254468/macos-sierra-doesn-t-seem-to-remember-ssh-keys-between-reboots</a></p>
+<p>Note to self:<br>No need to apply for a new SSH key again.</p>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[A little bit of philosophy]]></title>
       <url>https://biozcw.github.io/2017/04/22/A-little-bit-of-philosophy/</url>
       <content type="html"><![CDATA[<p>This is just a starting point.</p>
